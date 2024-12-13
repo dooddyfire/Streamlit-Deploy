@@ -3,7 +3,7 @@ import webbrowser
 import uuid
 import streamlit.components.v1 as components
 
-st.page_config(
+st.set_page_config(
     page_title = 'SweetieSS Store', 
     page_icon = '📖'
 )
